@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Slydreamz
+- 👋 Hi, I’m Juanpedro Guillen
 - 👀 I’m interested in learning how to apply my code
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript/ Java/ SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
